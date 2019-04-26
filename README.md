@@ -31,7 +31,7 @@ Project video can be found [here](http://bit.ly/pollution_video)
   We'd love to accept your contributions to this project. Please feel free to open an issue, or submit a pull request as necessary. If you have implementations of this repository in other ML frameworks, please reach out so we may highlight them here.
   
 ### Acknowledgment
-We would like to thank our mentors, [Dr. Aakanksha Chowdhery](http://www.achowdhery.com/), [Prerana Mukherjee](https://mprerana.github.io/DrPreranaMukherjee/), 
+We would like to thank our mentors, [Dr. Aakanksha Chowdhery](http://www.achowdhery.com/), [Dr. Prerana Mukherjee](https://mprerana.github.io/DrPreranaMukherjee/), 
 and [Prof. Brejesh Lall](web.iitd.ac.in/~brejesh/) for the inspiring guidance and constant encouragement during the course of this project. 
 We owe our heartfelt gratitude to them for providing us an opportunity to pursue projectwith excellent laboratory facilities at IIT Delhi. We would also like to
 thank Marconi Society for sponsoring Celestini Project India. We  would  also  like  to  thank Central  pollution  control  board  for  the  dataset  which  has
