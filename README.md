@@ -7,8 +7,9 @@ Anukulani. We proposed an end-to-end  solution to predict air quality for next 2
 
 **Contributor**: [Divyam Madaan](https://divyam3897.github.io/), [Radhika Dua](https://radhikadua123.github.io/)
 
-### Cite this in case you use the code
+### Citation
 If you use this code in your research, we would appreciate a citation to the original paper:
+
 @article{madaan2019vayuanukulani,
   title={VayuAnukulani: Adaptive Memory Networks for Air Pollution Forecasting},
   author={Madaan, Divyam and Dua, Radhika and Mukherjee, Prerana and Lall, Brejesh},
